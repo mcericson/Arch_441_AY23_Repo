@@ -1,18 +1,17 @@
-import rhinoscriptsyntax as rs
+
 import random
 from scriptcontext import escape_test
 import viewport_tools as vt
-
+import color_tools as ct
 from imp import reload
 reload(vt)
+reload(ct)
+import rhinoscriptsyntax as rs
+
+
 
 #program definitions
-def random_color(object):
-    r = random.randint(0, 255)
-    g = random.randint(0, 255)
-    b = random.randint(0, 255)
-    color = rs.CreateColor(r,g,b)
-    rs.ObjectColor(object, color)
+
 
 def cubic_grid(point, x_num, y_num, z_num, cell_size):
 
@@ -34,51 +33,39 @@ def cubic_grid(point, x_num, y_num, z_num, cell_size):
             for p in range(start_z, stop_z, cell_size):
                 x, y, z = i, j, p
                 grid_point = (x, y, z)
+                r, g, b = ct.point_to_rgb(grid_point, start_x, stop_x)
+#                point = rs.AddPoint(x, y, z)
+#                color = rs.CreateColor(r, g, b)
+#                rs.ObjectColor(point, color)
                 point_list.append(grid_point)
-                #create colors
-                #random_color(grid_point)
-
 
     return point_list
-
-def lines(point_list):
-    for i in range(len(point_list)):
-        point_1 = point_list[i-1]
-        point_2 = point_list[i]
-        line = rs.AddLine(point_1, point_2)
-        random_color(line)
 
 
 # main program all calls of other functions should be in here
 def main():
-    #create count at 0 outside of loop
-    count = 0
-    #set a stop value for the loop
-    stop = 5
-    #create view with properties
-    view_name = "new_top"
-    vt.create_parallel_view(view_name, (800, 800))
-    vt.set_axon_view(45, 45, view_name)
-    #loop
-    while count < stop:
-        #provide means of exiting the loop
-        escape_test(True)
-        #disable redraw while object is being created
-        rs.EnableRedraw(False)
-        #add to count 1 unit each time the loop runs
-        count += 1
-        #provide instructions to user
-        point = rs.GetPoint("Select Point or hit Escape key")
-        points = cubic_grid(point, 10, 10, 10, 20)
-        lines(points)
-        #enable redraw after object is created
-        rs.EnableRedraw(True)
-        rs.ZoomExtents()
-    #save viewport to file
-    vt.set_viewports_mode("Wireframe")
-    rs.ZoomExtents()
-    vt.capture_view(2.0, "test_grid", "grid_folder")
+    point = 0,0,0
+    end_point = rs.GetPoint()
+    rs.EnableRedraw(False)
+    points = cubic_grid(point, 50, 50, 20, 10)
+    for i in range(len(points)):
+        max_index = len(points) - 1
+        index_1 = random.randint(0, max_index)
+        index_2 = random.randint(0, max_index)
+        index_3 = random.randint(0, max_index)
+        point_4 = end_point
+        point_list = [points[index_1], points[index_2], points[index_3], point_4]
+        
+        rs.AddText
+        curve = rs.AddCurve(point_list, 3)
+        r, g, b = ct.point_to_rgb(points[index_1],0, 200)
+        color = rs.CreateColor(r, g, b)
+        text = str(r)+ "," +  str(g) + "," + str(b)
+        label = rs.AddText(text, points[index_1], .5)
+        rs.ObjectColor(curve, color)
+        rs.ObjectColor(label, color)
     
-#call the main program
+
+
 
 main()
