@@ -1,814 +1,991 @@
-Neural
- Learn
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Neural
- Learn
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Sureal
- Education
+Dream
+ Game
 Human computer interaction is largely limited to visual and audio senses.
  This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
-Neural
- Neural
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
+World
+ Immersion
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 Sureal
  Game
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
-World
- Learn
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Neural
- Education
-Educational games rely on user control and clear learning outcomes and objectives. 
  This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Neural
- Immersion
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
 Immersive Game
 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Immersive Experience
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-World
- ImmersionHuman computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
  This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
-Mind
+Imagination
  Experience
 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
-World
+Neural
  Waves
-Human computer interaction is largely limited to visual and audio senses.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
-Neural
- Education
-Human computer interaction is largely limited to visual and audio senses.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
 
 Dream
- Learn
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Neural
  Experience
-Educational games rely on user control and clear learning outcomes and objectives. 
+
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Dream
- Neural
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Imagination
- Education
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses a virtual environment to immerse the user in the experience of the brain.
  This project uses a game space to build an education experience on the structure of the human brain.
-
-Immersive Education
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Neural
- Learn
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
- Game
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
 
 Immersive Learn
 
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Dream
- Learn
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Dream
- Immersion
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Neural
- Neural
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Mind
- Learn
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Immersive Waves
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Dream
- Learn
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Sureal
- Game
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Sureal
- Experience
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
- Waves
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
- Neural
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Neural
- Experience
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
 
 Mind
  Education
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Immersive Experience
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Neural
- Game
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Neural
- Experience
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Sureal
- Game
-Human computer interaction is largely limited to visual and audio senses.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
- Experience
 
  This project uses a virtual environment to immerse the user in the experience of the brain.
  This project uses a game space to build an education experience on the structure of the human brain.
 
 Sureal
- Education
-
+ Waves
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
-World
+Immersive ImmersionHuman computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Mind
+ Learn
+Human computer interaction is largely limited to visual and audio senses.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Sureal
+ Immersion
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Dream
+ Learn
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Neural
+ Experience
+Human computer interaction is largely limited to visual and audio senses.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Dream
+ Experience
+Human computer interaction is largely limited to visual and audio senses.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Imagination
  Waves
 Human computer interaction is largely limited to visual and audio senses.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
-World
- Immersion
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+Virtual
+ Education
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
 
 Immersive Game
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Mind
- Education
-Human computer interaction is largely limited to visual and audio senses.
+Educational games rely on user control and clear learning outcomes and objectives. 
  This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
 
+Immersive ImmersionEducational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
 World
- Learn
+ Education
 Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 Virtual
+ Neural
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Sureal
+ Experience
+Human computer interaction is largely limited to visual and audio senses.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Dream
+ Experience
+Human computer interaction is largely limited to visual and audio senses.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Dream
+ Immersion
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Sureal
+ Education
+Human computer interaction is largely limited to visual and audio senses.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Neural
+ Neural
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Immersive Education
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Virtual
+ Education
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Virtual
+ Game
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+World
  Learn
 Educational games rely on user control and clear learning outcomes and objectives. 
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
-Dream
- Immersion
+Imagination
+ Neural
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Sureal
+ Experience
+Human computer interaction is largely limited to visual and audio senses.
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Neural
+ Game
+Human computer interaction is largely limited to visual and audio senses.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Virtual
+ Waves
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Dream
+ Game
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Mind
+ Waves
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Mind
+ Waves
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Neural
+ Game
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Imagination
+ Game
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Imagination
+ Experience
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Imagination
+ Experience
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Imagination
+ Neural
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Neural
+ Game
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Sureal
+ Neural
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+World
+ Learn
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Mind
+ Education
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Neural
+ Learn
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
  This project uses a game space to build an education experience on the structure of the human brain.
 
 Mind
  Neural
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Sureal
+ Neural
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Neural
+ Education
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Neural
+ Game
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Sureal
+ Learn
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Dream
+ Education
 Educational games rely on user control and clear learning outcomes and objectives. 
  This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 Imagination
- Neural
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ Waves
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Mind
+ ImmersionHuman computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Mind
+ Education
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Imagination
+ Education
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Neural
+ Immersion
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Virtual
+ ImmersionEducational games rely on user control and clear learning outcomes and objectives. 
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project uses a game space to build an education experience on the structure of the human brain.
+
+Dream
+ Experience
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Imagination
+ Game
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Dream
+ Learn
+Human computer interaction is largely limited to visual and audio senses.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Immersive Experience
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Dream
+ Waves
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Dream
+ Game
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Dream
+ Game
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Neural
+ Neural
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Imagination
+ Game
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Mind
+ Learn
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 Immersive Experience
 
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project uses a game space to build an education experience on the structure of the human brain.
 
-Virtual
- Experience
+Sureal
+ ImmersionHuman computer interaction is largely limited to visual and audio senses.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
 
+Neural
+ Learn
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Neural
+ Immersion
  This project uses a virtual environment to immerse the user in the experience of the brain.
  This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
-Mind
- Education
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Dream
- Immersion
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Immersive Immersion
+Sureal
+ Game
+Human computer interaction is largely limited to visual and audio senses.
  This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Imagination
- Immersion
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project uses a game space to build an education experience on the structure of the human brain.
 
-Virtual
+Sureal
  Neural
 Human computer interaction is largely limited to visual and audio senses.
  This project uses a virtual environment to immerse the user in the experience of the brain.
  This project uses a game space to build an education experience on the structure of the human brain.
 
-World
+Imagination
  Neural
 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Sureal
+ Waves
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Mind
+ Learn
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+World
+ Learn
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Neural
+ Education
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Dream
+ Game
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
  This project uses a virtual environment to immerse the user in the experience of the brain.
  This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
-Mind
+Dream
+ Education
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Virtual
+ Waves
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Sureal
+ Learn
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Immersive Game
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Virtual
+ Immersion
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Imagination
+ Game
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Virtual
+ Game
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Immersive Learn
+Human computer interaction is largely limited to visual and audio senses.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+World
+ ImmersionHuman computer interaction is largely limited to visual and audio senses.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+World
  ImmersionEducational games rely on user control and clear learning outcomes and objectives. 
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Virtual
- Immersion
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Dream
- Experience
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Virtual
- Learn
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Dream
- Waves
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
  This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Dream
- Education
-Human computer interaction is largely limited to visual and audio senses.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
- Immersion
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Mind
- Experience
-Human computer interaction is largely limited to visual and audio senses.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-World
- Game
-Human computer interaction is largely limited to visual and audio senses.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Virtual
- Education
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Virtual
- Education
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Sureal
- Waves
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Imagination
- Education
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
 Neural
- Neural
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
  Learn
-Human computer interaction is largely limited to visual and audio senses.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Immersive Waves
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Mind
- Education
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
- Immersion
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Dream
- Waves
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Sureal
- Waves
-Human computer interaction is largely limited to visual and audio senses.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Sureal
- Learn
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Dream
- Education
-Human computer interaction is largely limited to visual and audio senses.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Neural
- Neural
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Immersive Education
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Dream
- Education
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Virtual
- Neural
 Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
  This project uses a virtual environment to immerse the user in the experience of the brain.
  This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
-World
- Waves
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Immersive Waves
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
 Dream
- Neural
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Virtual
  Learn
 
  This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
 
 Virtual
- Game
-Human computer interaction is largely limited to visual and audio senses.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+ Waves
 
-Imagination
- Game
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
 Immersive Neural
 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-World
- Waves
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Immersive Education
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Immersive ImmersionEducational games rely on user control and clear learning outcomes and objectives. 
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Dream
- Waves
-Educational games rely on user control and clear learning outcomes and objectives. 
  This project uses a virtual environment to immerse the user in the experience of the brain.
  This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 Neural
- Waves
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
+ Immersion
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project uses a game space to build an education experience on the structure of the human brain.
 
-Imagination
- Education
-Educational games rely on user control and clear learning outcomes and objectives. 
+Mind
+ Neural
+
  This project uses a virtual environment to immerse the user in the experience of the brain.
  This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
-Mind
- Waves
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+Dream
+ Learn
 
-Imagination
- Neural
-Educational games rely on user control and clear learning outcomes and objectives. 
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 Virtual
+ Education
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Sureal
  Experience
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Mind
+ Neural
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Neural
+ Neural
 Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
  This project uses a virtual environment to immerse the user in the experience of the brain.
  This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Immersive Neural
-Human computer interaction is largely limited to visual and audio senses.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Imagination
- Education
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Dream
- Neural
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
 
 Mind
  Game
 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Sureal
- Experience
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Imagination
- Neural
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
 
 World
  Waves
-Human computer interaction is largely limited to visual and audio senses.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
- Education
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
  This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 Imagination
- Neural
+ Education
 
  This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
-Sureal
- Education
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Virtual
- Immersion
+World
+ Neural
+Educational games rely on user control and clear learning outcomes and objectives. 
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
-Sureal
+Neural
  Learn
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Virtual
- ImmersionHuman computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Mind
- Waves
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Imagination
+World
  ImmersionHuman computer interaction is largely limited to visual and audio senses.
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Dream
+ ImmersionHuman computer interaction is largely limited to visual and audio senses.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+World
+ Waves
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Dream
+ Waves
+Human computer interaction is largely limited to visual and audio senses.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Imagination
+ Waves
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Imagination
+ Game
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Virtual
+ ImmersionEducational games rely on user control and clear learning outcomes and objectives. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+World
+ Game
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Neural
+ Neural
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Sureal
+ Neural
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Neural
+ Waves
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+World
+ Waves
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Imagination
+ Experience
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Sureal
+ Learn
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Dream
+ Neural
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
  This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
 Dream
- Education
-Educational games rely on user control and clear learning outcomes and objectives. 
+ Immersion
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+ This project uses a game space to build an education experience on the structure of the human brain.
 
 Sureal
  Immersion
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Mind
+ Game
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Neural
+ Neural
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Dream
+ Neural
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Mind
+ Education
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Virtual
+ Experience
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Mind
+ Immersion
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+World
+ Game
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Immersive Experience
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Mind
+ Neural
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Virtual
+ ImmersionEducational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Dream
+ Education
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Imagination
+ Neural
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
  This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
 Dream
  Learn
 
  This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Mind
+ Learn
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Neural
+ Waves
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Neural
+ Neural
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Immersive Waves
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+World
+ Waves
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project uses a game space to build an education experience on the structure of the human brain.
+
+Dream
+ Game
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Sureal
+ Waves
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Immersive Neural
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+World
+ Waves
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Sureal
+ ImmersionHuman computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Mind
+ Education
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Mind
+ Neural
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Dream
+ Game
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Dream
+ Education
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Dream
+ Game
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Sureal
+ Learn
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Sureal
+ Waves
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Neural
+ Experience
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Virtual
+ Education
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Neural
+ Learn
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Immersive ImmersionEducational games rely on user control and clear learning outcomes and objectives. 
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Immersive Waves
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Dream
+ Game
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Immersive Neural
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Neural
+ Immersion
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Neural
+ Experience
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Neural
+ Game
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Neural
+ Experience
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+World
+ ImmersionHuman computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Sureal
+ Learn
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Mind
+ Game
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Neural
+ Education
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Sureal
+ ImmersionHuman computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Virtual
+ Experience
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Immersive Neural
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Mind
+ Waves
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Sureal
+ Learn
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Mind
+ Neural
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Virtual
+ Waves
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+World
+ Game
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Dream
+ Neural
+Educational games rely on user control and clear learning outcomes and objectives. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
 Immersive Neural
 
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Mind
- Game
-Human computer interaction is largely limited to visual and audio senses.
- This project uses a virtual environment to immerse the user in the experience of the brain.
  This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
- Waves
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Virtual
- Education
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Sureal
- Game
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Imagination
- Experience
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Immersive Experience
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Sureal
- Experience
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Mind
- Waves
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Immersive Waves
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Virtual
- Neural
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Dream
- Learn
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Dream
- Waves
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Virtual
- Waves
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Virtual
- Neural
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
 
 Neural
- Education
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-World
- Education
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-World
- Experience
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Immersive Experience
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Virtual
- Education
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Virtual
  Learn
 
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-World
- Learn
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Neural
- Experience
-
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Mind
- Education
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Dream
- Neural
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Dream
- Neural
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Virtual
- Education
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Imagination
- Neural
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Mind
- Waves
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Virtual
- Education
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Immersive Immersion
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Imagination
- Neural
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Dream
- Game
-Human computer interaction is largely limited to visual and audio senses.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-World
- Neural
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 World
  Immersion
@@ -816,262 +993,102 @@ World
  This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
 Mind
- Game
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Virtual
- Waves
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Mind
  Neural
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
+Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 Sureal
+ Neural
+
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+World
+ Neural
+Human computer interaction is largely limited to visual and audio senses.
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+World
+ Immersion
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Mind
  Education
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
 Dream
- ImmersionHuman computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ Education
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
  This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 Imagination
- Experience
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
+ Immersion
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Mind
+ Experience
+
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
+
+Virtual
+ Immersion
+ This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
+
+Imagination
+ Game
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a game space to build an education experience on the structure of the human brain.
 
 Immersive Learn
 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
+ This project uses a game space to build an education experience on the structure of the human brain.
+
+Virtual
+ Waves
+
+ This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
+
+Imagination
+ Learn
+Human computer interaction is largely limited to visual and audio senses.
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project uses a game space to build an education experience on the structure of the human brain.
 
 Dream
- Neural
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Virtual
- Neural
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Mind
- Experience
-Human computer interaction is largely limited to visual and audio senses.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Immersive Experience
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
- Game
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Immersive Education
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Sureal
- Experience
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Mind
- Learn
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Sureal
- Game
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-World
- Immersion
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Neural
- Learn
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Mind
- Experience
-Human computer interaction is largely limited to visual and audio senses.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Mind
- Game
+ Waves
 Educational games rely on user control and clear learning outcomes and objectives. 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-World
- Education
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Dream
- Learn
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Virtual
- Waves
-Human computer interaction is largely limited to visual and audio senses.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Imagination
- Neural
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-World
- Waves
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Neural
- Learn
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Sureal
- Neural
-Educational games rely on user control and clear learning outcomes and objectives. 
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
-
-Neural
- Education
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Neural
- Learn
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Neural
- Experience
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Virtual
- Immersion
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-Mind
- Game
-Human computer interaction is largely limited to visual and audio senses.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Imagination
- Learn
-Human computer interaction is largely limited to visual and audio senses.
  This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
-World
- Waves
+Mind
+ Learn
 
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Dream
- Immersion
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Immersive ImmersionEducational games rely on user control and clear learning outcomes and objectives. 
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Neural
- Neural
-
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Neural
- ImmersionHuman computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
  This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project uses a game space to build an education experience on the structure of the human brain.
-
-World
- Game
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
 Virtual
  Waves
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Dream
- Waves
-
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-Dream
- Learn
-
- This project contains minature games that help users to learn about the operation of the brain through a virtual experience. This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Neural
- Neural
 
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
  This project expands the realm of human computer interaction by incorportaing biometrics into the generation of virtual experiences.
 
-Mind
- ImmersionHuman computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project uses a game space to build an education experience on the structure of the human brain.
-
-World
- Education
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses a virtual environment to immerse the user in the experience of the brain.
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Immersive Learn
+Neural
+ Experience
 Human computer interaction is largely limited to visual and audio senses.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
-
-Immersive Experience
-Human computer interaction in video games and virtual reality is centered on the controlled and intentional manipulation of the virtual space.
- This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
+ This project uses a virtual environment to immerse the user in the experience of the brain.
  This project uses a game space to build an education experience on the structure of the human brain.
 
-Mind
+Dream
  Experience
 
  This project uses biometrics to immerse the user in a virtual space of which they do not have full controll, but yet remain the author. 
- This project uses a game space to build an education experience on the structure of the human brain.
+ This project builds a virtual experience that translate the structure of the human brain into a three-dimensional game.
 
