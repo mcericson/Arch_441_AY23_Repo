@@ -43,3 +43,27 @@ def center_box(center, height, width, length):
     points = [p1, p2, p3, p4, p5, p6, p7, p8]
     box = rs.AddBox(points)
     return box
+
+def base_box(center, height, width, length):
+    
+    cx, cy, cz = center
+    
+    h = height/2 #z 
+    w = width/2  #x
+    l = length/2 #y
+    
+    #lower points
+    p1 = (cx - w, cy - l, cz)
+    p2 = (cx + w, cy - l, cz)
+    p3 = (cx + w, cy + l, cz)
+    p4 = (cx - w, cy + l, cz)
+    
+    #upper points
+    p5 = (cx - w, cy - l, cz + h)
+    p6 = (cx + w, cy - l, cz + h)
+    p7 = (cx + w, cy + l, cz + h)
+    p8 = (cx - w, cy + l, cz + h)
+    
+    points = [p1, p2, p3, p4, p5, p6, p7, p8]
+    box = rs.AddBox(points)
+    return box
